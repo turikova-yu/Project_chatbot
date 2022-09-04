@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "carmodelagent-cpgm",
+  "private_key_id": "9f732cf58c610ca9d13472d770bea3a1be5de16f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQD0eY6uZGvMJjaE\nxxr2OsCbD8F0N+GWkohR7oBc4ByDVwUQTXslqxZgc/PX0OeY1GMAonvnEXCLcC/z\nQWt9Ijn7Bj+TZDDD7inhHVTLLq75ngPLcbmI5IWIVMOuLAkCsDT2vRIk9s+leGte\nV2lZQOkeVi2kFXhLn8hoz1eia1E40hmzueugC1q3facI58fWSJbk8Q1xkINZinxv\nrAG+DXb8M7xuQACr9yxpYZx6KK07rK1VFAidV07atSL0k+8APaohg//2ks3fwrPk\nB3JwDJn80FMn2fQh8GLB6mkSfv8kREC9VV9oJtgtg0WL+lwbz2rhXiil+ekbOM9b\nSnLhX7ChAgMBAAECggEAAj8ZFQQ5RzxfSDDhEBPb8erTDYqPSiYjXnseSugwa+Kr\nekX3fpIF/gW3vw8ZZzalqJ99m2reI5pgtuvOIUWkljBlankXX4AJaosdrLKrhwG9\nLcAQLxxQN6+VdxzqiefBC1bDP0OlNqNSu4CasEA96iZrI8KynuGHZrLnzodNXSwA\nuSGpAhu+00ZXq46NwlGEvTDRdTpiMSP+OequYB4ooAo0H4/ulTkDxNv9YbwGdbvz\n5zwGidzEc7hm0WfRG7huBFzNa+ftERap6X3LP6TUNHXKWhs4eJ6Y3HsQL8Lg2ymj\n0wDdWVh3cFhyrPLHDVueVuD9jIZsCZt8TCUxz+BJwQKBgQD/ZnJh9AflUark/ojl\nOeUcpV5I9MFaIdlFKJ9Ud4wkIvzW8gUiQlY7IG/Tm9HwHoHRT+x/nqVdxqI56alu\nHeiI/IZPtIwkoiVdd6rJZQAIUjcTnICTgvB7L94GfJU42Ie4xbPKuXPCYNAdAUMu\nNWREiOA3/YwACNnfbhX3DzA+4QKBgQD1DIq8gLEw7B8qZBOkWVhBKCfOavFjeMky\niJfkBoAoWP0DojnS9li/Ei7ouMHpra8BZuqoOHiNmSM4Z59SfjuuqBA0nObUmBoF\n3krxhYy4OiZXCOukuxR6CSIxbc6f+uPzcSr2YMy1hA6IDz7WYReTHi4h9lqD9AGy\nKnLYOPZpwQKBgQD1Hqr7Dg4h7l65Rv22Gvmko6Y5GQcVbVUsxg8dL1uGNzo5RbDd\nr5M5Tilli7BS58SqUi3mUineNczvDi55rCTIjKyPhPXYFvMLoNV+UvxUACwyG0tf\nyBTr9gX+bcV9+HtSQBUNpS3PycEThWmnyMCB8mhX9HVQdy47/VkBdEdWoQKBgDLi\npNiZ/LGFBr+9wlppdysolIOHr5KRXW5R8QCX3PsD555ejJVjNHCQ7Q7Edvf4ahPn\ndCj0eQwmVar70ZjGv8v3+E2Em2ZgI18+lt9qdRs4cAe4wX4WnxzsUp5jB/ouljFS\nObKpzTiQMJhOWiUYSlXxeXDyAD/QZp3BtNFzmq/BAoGBAL4MMLCV2IcJB12OeAy3\nkERAW0rKfZvsg2LLPecq1DFD2zOE+Jaa2DgjIjKS7NHYz+ISVo37nftlzMUnNpir\nOGrIbbUMyJit4CPJ83Tjd35Xkwf5SlIbP4NN1HDmRV8FNMWOnKtojzviy5VNhRfK\nSAQWqn7J4JEylCCyYSByxqkn\n-----END PRIVATE KEY-----\n",
+  "client_email": "carmodels@carmodelagent-cpgm.iam.gserviceaccount.com",
+  "client_id": "104050305479754004533",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/carmodels%40carmodelagent-cpgm.iam.gserviceaccount.com"
+}
